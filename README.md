@@ -5,6 +5,3 @@ multidex2jar 可以将多 dex apk 转成 jar，使用 [JD-GUI](http://jd.benow.c
 
 ### 使用
 ./my_d2j.sh airbnb.apk airbnb.jar
-
-* 需要安装 JDK
-* 如果使用 windows，可讲脚本在 git-bash 中执行
